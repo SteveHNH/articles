@@ -2,6 +2,8 @@
 
 Install, configure, and start using the bspwm window manager on Fedora Linux
 
+![BSPWM Desktop](./bspwm-desktop.png "bspwm desktop")
+
 Some folks like to rearrange furniture. Some folks like to try new shoes, or redecorate their bedroom on the regular. Me? I try out Linux desktops.
 
 After drooling over some of the incredible desktop environments I've seen on [Reddit](https://unixporn.reddit.com) I got curious about one window manager in particular: [bspwm](https://github.com/baskerville/bspwm). I've been a fan of the [i3](https://i3wm.org/) window manager for quite a while and I do enjoy the way everything is laid out, and the ease at getting started. But something was calling to me about bspwm. There are a few reasons I decided to try it out.
